@@ -2,6 +2,6 @@ torch
 torchvision
 nerfstudio
 wandb
-plotly
 opencv-python
-matplotlib
+colmap
+ffmpeg
