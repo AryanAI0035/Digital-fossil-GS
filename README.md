@@ -1,4 +1,4 @@
-# 🦖 Digital-Fossil-GS
+# 🦖 Digital-Heritage-Preservation-GS
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Nerfstudio](https://img.shields.io/badge/Nerfstudio-Framework-green)](https://docs.nerf.studio/)
