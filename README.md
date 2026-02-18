@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Nerfstudio](https://img.shields.io/badge/Nerfstudio-Framework-green)](https://docs.nerf.studio/)
 
-> **"My attempt at preserving NIT Rourkela's heritage using 3D AI."**
+> **"My attempt at preserving  heritage using 3D AI."**
 
 ## 👋 About This Project
 I am a 2nd-year AI student, and I wanted to explore how computers "see" in 3D. Everyone talks about 3D Gaussian Splatting being the next big thing after NeRFs, so I decided to build a project around it.
@@ -56,4 +56,4 @@ I ran two different models on the same video to see the difference.
 
 ---
 **Author:** Aryan Shukla
-*Student @ NIT Rourkela*
+*Student*
